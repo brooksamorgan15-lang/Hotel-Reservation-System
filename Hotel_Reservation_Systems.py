@@ -1,6 +1,6 @@
 '''
-Project 3 - Hotel Reservation System (Part 3) - Spring 2026  
-Author: Brooks Morgan and brooksm07 
+Project - Hotel Reservation System - Spring 2026  
+Author: Brooks Morgan
 
 My program simulates a basic hotel reservation system. Users can create, view, edit, delete, save, and load reservations. Each reservation has a unique ID and is stored in a dictionary.
 
