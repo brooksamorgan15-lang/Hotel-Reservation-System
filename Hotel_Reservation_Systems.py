@@ -1,11 +1,9 @@
 '''
-Project - Hotel Reservation System - Spring 2026  
+Project - Hotel Reservation System
 Author: Brooks Morgan
 
 My program simulates a basic hotel reservation system. Users can create, view, edit, delete, save, and load reservations. Each reservation has a unique ID and is stored in a dictionary.
 
-I have neither given or received unauthorized assistance on this assignment.
-Signed:  Brooks Morgan
 '''
 
 import random
