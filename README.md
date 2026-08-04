@@ -10,11 +10,10 @@ A Python-based hotel reservation system that allows users to create, edit, delet
 - Delete reservations
 - Save reservation data
 - Load existing reservations
-- Automatic room management
 
 ## Technologies Used
 - Python
-- Object-Oriented Programming
+- Project-Oriented Programming
 
 ## Skills Demonstrated
 - Data validation
